@@ -1,22 +1,22 @@
 # PowerBI-Sales_and_Revenue_Insights
-##Sales & Revenue Analysis Dashboard
-###Overview
+## Sales & Revenue Analysis Dashboard
+### Overview
 This Power BI dashboard provides a comprehensive analysis of sales and revenue trends across different markets, customer types, and product categories. The visualizations offer insights into key performance metrics, such as total revenue, sales quantity, top-performing markets, and customer distribution.
 
-###Key Insights
+### Key Insights
 Revenue & Sales Performance:
 
 Total revenue for the selected period (2020) stands at ₹142 million.
 
 A total of 350.24K units were sold during this time.
 
-###Market-wise Analysis:
+### Market-wise Analysis:
 
 Delhi NCR leads in both revenue (₹75M) and sales quantity (0.13M units), significantly outperforming other markets.
 
 Other major contributors include Mumbai (₹11M), Ahmedabad (₹4M), and Nagpur (₹6M).
 
-###Revenue Trend:
+### Revenue Trend:
 
 Revenue peaked around February–March 2020 but began to decline from April to June 2020.
 
