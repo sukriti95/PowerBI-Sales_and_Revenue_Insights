@@ -22,19 +22,19 @@ Revenue peaked around February–March 2020 but began to decline from April to J
 
 The downward trend could indicate seasonal effects, market disruptions, or other influencing factors.
 
-###Customer & Sales Channel Insights:
+### Customer & Sales Channel Insights:
 
 E-commerce dominates the revenue share, accounting for 93.85% (₹85M) of total sales.
 
 Brick & Mortar stores contribute a smaller share (6.15% / ₹6M).
 
-###Top Customers & Products:
+### Top Customers & Products:
 
 The top customer segment contributes significantly to the overall revenue, suggesting high-value clients.
 
 Among the top-selling products, the highest revenue-generating product (labeled as "Blank") contributes ₹65M, while other top products range between ₹3M and ₹4M.
 
-###Recommendations
+### Recommendations
 Focus on High-Performing Markets: Increase marketing and sales efforts in Delhi NCR, Mumbai, and Nagpur to capitalize on existing demand.
 
 Address Revenue Decline: Investigate potential reasons for the revenue dip post-March 2020 and implement strategies to mitigate losses.
